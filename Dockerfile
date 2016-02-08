@@ -1,4 +1,4 @@
-FROM qnib/d-terminal:wheezy
+FROM qnib/d-terminal
 
 ## Java7
 RUN apt-get update && \

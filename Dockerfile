@@ -1,4 +1,4 @@
-FROM qnib/d-terminal
+FROM qnib/d-syslog
 
 ## Java7
 RUN apt-get update && \
